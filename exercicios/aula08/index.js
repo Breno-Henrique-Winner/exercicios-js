@@ -8,9 +8,10 @@
 // 1. Importe as funções nomeadas de './utils/matematica.js'
 
 // escreva o import aqui
+import { somar, subtrair, multiplicar, dividir } from './utils/matematica.js'
 
 // 2. Importe a função default de './utils/texto.js'
-
+import formatarNome from './utils/texto.js'
 // escreva o import aqui
 
 // 3. Re-exporte tudo para os testes conseguirem acessar
